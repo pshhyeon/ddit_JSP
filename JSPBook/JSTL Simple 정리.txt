@@ -1,0 +1,25 @@
+# forEach
+begin : 시작 index
+end : 끝 index
+step : 증가값
+var : 변수명
+items : collection or array 데이터
+varStatus : collection or array 데이터를 기반으로 생성된 index와 count 설정
+  > varStatus="vs"
+  > vs.index, vs.count로 가져올 수 있다.
+  
+# set
+value : 저장할 값
+var : 변수명
+
+# if
+test : 조건문
+
+# choose
+when과 otherwise를 사용할때 사용할때
+
+# when과 otherwise
+if, else if, else구문을 사용할때 사용할때
+
+# out
+value : 출력 값
